@@ -1,4 +1,4 @@
-package com.example.pintalk.home.Controller;
+package com.pintalk.home.Controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
