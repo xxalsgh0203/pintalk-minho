@@ -1,4 +1,4 @@
-package com.example.pintalk;
+package com.pintalk;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
